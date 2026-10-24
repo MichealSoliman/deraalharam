@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Disallow admin or dynamic search params if any
+Disallow: /*?*
+Disallow: /scratch/
+
+# Sitemap location
+Sitemap: https://deraalharam.com/sitemap.xml
