@@ -56,6 +56,36 @@
         <priority>0.9</priority>
     </url>
     <url>
+        <loc>https://deraalharam.com/areas/hayu-uhud/</loc>
+        <lastmod>2026-10-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://deraalharam.com/areas/hayu-alnoor/</loc>
+        <lastmod>2026-10-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://deraalharam.com/areas/hayu-badr/</loc>
+        <lastmod>2026-10-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://deraalharam.com/areas/hayu-almazrouia/</loc>
+        <lastmod>2026-10-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://deraalharam.com/areas/hayu-alhamra/</loc>
+        <lastmod>2026-10-31</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
         <loc>https://deraalharam.com/blog/dammam-moving-prices-guide/</loc>
         <lastmod>2026-08-10</lastmod>
         <changefreq>monthly</changefreq>
